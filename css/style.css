@@ -1,0 +1,9 @@
+div{
+    width: 1500px;
+    height: 700px;
+}
+
+.bg-box{
+    background:no-repeat center/520px url(../images/pole-zelen-trava-dom-derevya.jpg),repeat-x bottom/350px url(../images/green-png-44873.png),repeat-x top/65px url(../images/lamp-png-34914.png),repeat-y left/30px url(../images/Enjic.jpg),repeat-y right/30px url(../images/Ponchic.jpg);
+    background-color: green
+}
